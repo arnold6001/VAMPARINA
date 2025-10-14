@@ -129,8 +129,8 @@ const channelInfo = {
         forwardingScore: 1,
         isForwarded: false,
         forwardedNewsletterMessageInfo: {
-            newsletterJid: '@newsletter',
-            newsletterName: 'Vamparina',
+            newsletterJid: '0029VbAwhrYChq6JPHOMOT0L@newsletter',
+            newsletterName: 'VAMPARINA Official Channel',
             serverMessageId: -1
         }
     }
